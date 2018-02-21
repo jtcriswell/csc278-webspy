@@ -1,5 +1,5 @@
-# csc292-webspy
-Skeleton code for CSC 292 MP2
+# csc278-mp2
+Skeleton code for CSC 278 MP2
 
 License for libpcap Soure Code:
 -------------------------------
