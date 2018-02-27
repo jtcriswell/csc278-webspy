@@ -23,7 +23,7 @@ packet.o: packet.c httpfilter.h
 	cc ${CFLAGS} -c packet.c
 
 httpfilter.h: http.bpf
-	$(BPFA) $< > $@
+	$(BPFA) $< -o $@
 
 #
 # Maintainence Targets
