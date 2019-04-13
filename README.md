@@ -1,5 +1,5 @@
-# csc278-mp2
-Skeleton code for CSC 278 MP2
+# csc278-mp3
+Skeleton code for CSC 278 MP3
 
 License for libpcap Soure Code:
 -------------------------------
