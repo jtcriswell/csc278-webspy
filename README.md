@@ -1,5 +1,5 @@
-# csc278-mp3
-Skeleton code for CSC 278 MP3
+# csc278-webspy
+Skeleton code for CSC 278 Webspy Project
 
 License for libpcap Soure Code:
 -------------------------------
